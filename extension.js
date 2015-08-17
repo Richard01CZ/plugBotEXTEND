@@ -46,8 +46,8 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "basicBot",
-      language: "english",
+      botName: "-MusicBot-",
+      language: "czech",
       chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
       scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
@@ -95,11 +95,11 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
+      rulesLink: http://bit.ly/1TLonuq,
       themeLink: null,
-      fbLink: null,
+      fbLink: http://on.fb.me/1WxLCMF,
       youtubeLink: null,
-      website: null,
+      website: http://on.fb.me/1WxLCMF,
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,
