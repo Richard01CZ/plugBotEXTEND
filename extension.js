@@ -112,6 +112,6 @@
     }));
 
     // Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/Richard01CZ/plugBot/master/plugBot.js", extend);
+    $.getScript("https://rawgit.com/Richard01CZ/plugBot/master/basicBot.js", extend);
 
 }).call(this);
